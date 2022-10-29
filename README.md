@@ -22,8 +22,8 @@
 | 6 | steamcommunity.com|
 | 7 | kinopoisk.dev |
 | 8 | pochta.ru |
-| 9 | https://rickandmortyapi.com |
-| 10 | http://open-notify.org |
+| 9 | rickandmortyapi.com |
+| 10 | open-notify.org |
 
 **Допзадание**
 
