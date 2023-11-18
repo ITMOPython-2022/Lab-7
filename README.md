@@ -17,7 +17,7 @@
 | ------- | ---- |
 | 1 | hh.ru |
 | 2 | api.covidtracking.com |
-| 3 | cbr.ru |
+| 3 | временно нет |
 | 4 | newsapi.org |
 | 5 | dictionaryapi.com |
 | 6 | steamcommunity.com|
