@@ -16,12 +16,12 @@
 | Вариант | Сайт |
 | ------- | ---- |
 | 1 | hh.ru |
-| 2 | api.covidtracking.com |
-| 3 | временно нет |
+| 2 | flickr.com/services/api/ |
+| 3 | getambee.com/api/natural-disasters |
 | 4 | newsapi.org |
 | 5 | dictionaryapi.com |
-| 6 | steamcommunity.com|
-| 7 | kinopoisk.dev |
+| 6 | steamcommunity.com/dev|
+| 7 | https://holidayapi.com |
 | 8 | pochta.ru |
 | 9 | rickandmortyapi.com |
 | 10 | open-notify.org |
