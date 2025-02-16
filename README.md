@@ -21,7 +21,7 @@
 | 4 | newsapi.org |
 | 5 | dictionaryapi.com |
 | 6 | steamcommunity.com/dev|
-| 7 | https://holidayapi.com |
+| 7 | holidayapi.com |
 | 8 | pochta.ru |
 | 9 | rickandmortyapi.com |
 | 10 | open-notify.org |
